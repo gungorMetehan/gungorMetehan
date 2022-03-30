@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gungorMetehan
+- 👀 I’m interested in statistics in Social Sciences
+- 📫 How to reach me gungormetehan@gmail.com
