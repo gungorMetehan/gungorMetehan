@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Metehan Güngör (@gungorMetehan)
-- 👀 I’m interested in statistics in Social Sciences
+- 👀 #psychometrics #educationalmeasurementandevaluation #itemresponsetheory #classicaltesttheory #scaledevelopment #statistics #factoranalysis #R #SPSS #TAP
 - 📫 How to reach me <code>gungormetehan@gmail.com</code>
 
 [<img src="https://github.com/jpswalsh/academicons/blob/master/svg/researchgate-square.svg" width="30" title="ResearchGate">](https://www.researchgate.net/profile/Metehan-Guengoer)
