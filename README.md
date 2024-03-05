@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Metehan Güngör (@gungorMetehan)
-- 📃 #psychometrics #educationalmeasurementandevaluation #itemresponsetheory #classicaltesttheory #scaledevelopment #statistics #factoranalysis #R #SPSS #TAP
+- 📃 [#psychometrics](https://en.wikipedia.org/wiki/Psychometrics) [#educationalassessment](https://en.wikipedia.org/wiki/Educational_assessment) [#itemresponsetheory](https://en.wikipedia.org/wiki/Item_response_theory) [#classicaltesttheory](https://en.wikipedia.org/wiki/Classical_test_theory) [#statistics](https://en.wikipedia.org/wiki/Statistics) [#factoranalysis](https://en.wikipedia.org/wiki/Factor_analysis) [#R](https://en.wikipedia.org/wiki/R_(programming_language)) [#SPSS](https://en.wikipedia.org/wiki/SPSS) [#TAP](https://journals.sagepub.com/doi/pdf/10.1177/0146621603027004007)
 - 📫 How to reach me <code>gungormetehan@gmail.com</code>
 
 [<img src="https://github.com/jpswalsh/academicons/blob/master/svg/researchgate-square.svg" width="30" title="ResearchGate">](https://www.researchgate.net/profile/Metehan-Guengoer)
