@@ -26,11 +26,12 @@ for (i in nrow(df)) {
 ### IBM
 <img width="75" height="75" alt="introduction-to-data-science" src="https://github.com/user-attachments/assets/a934f127-97c5-45e9-b803-6f60c9339348" />
 
+### CodeSignal
+![Mathematics_and_Statistics](https://github.com/user-attachments/assets/eb6e4dc7-8f45-4336-aa12-d050d321d6b6)
+![Coding_and_Data_Algorithms](https://github.com/user-attachments/assets/628b5ac4-7fe4-4ceb-af9b-164343e32f17)
+![Data_Cleaning_and_Preprocessing](https://github.com/user-attachments/assets/8ade9f10-7fe1-4cd6-bd42-2572f9980602)
+![Data_Visualization_and_Reporting](https://github.com/user-attachments/assets/1f90d076-e5e8-4ce0-b890-38555afc0bd4)
+
 ### Turkcell - Geleceği Yazanlar
 <img width="50" height="75" alt="Veri Bilimi İçin İstatistik 1 Yıldızlı Mezun Rozeti" src="https://github.com/user-attachments/assets/6bae070d-58ef-4d71-a429-84b2fab1ace1" />  <img width="50" height="75" alt="Veri Okuryazarlığı 1 Yıldızlı Mezun Rozeti" src="https://github.com/user-attachments/assets/01aaeb8b-5e7e-4e64-9f0d-85e30359649e" />  <img width="50" height="75" alt="Veri Ön İşleme 1 Yıldızlı Mezun Rozeti" src="https://github.com/user-attachments/assets/8c3b54c7-ef00-4426-b306-0f6ed15f1279" />  <img width="50" height="75" alt="Veri Manipülasyonu 5 Yıldızlı Mezun Rozeti" src="https://github.com/user-attachments/assets/6797ecc8-6c34-4f95-9c17-dc810daba806" />  <img width="50" height="75" alt="Veri Bilimi ve Yapay Zekaya Giriş 1 Yıldızlı Mezun Rozeti" src="https://github.com/user-attachments/assets/6ef63607-bd7f-4877-a0e6-a80877f7e6cc" />  <img width="50" height="75" alt="Veri Bilimi Proje Döngüsü 1 Yıldızlı Mezun Rozeti" src="https://github.com/user-attachments/assets/3c26eadf-0e64-4dcc-bf8c-8f6fa50a1d3f" />
-
-
-
-
-
 
