@@ -19,6 +19,10 @@ for (i in nrow(df)) {
 [<img src="https://github.com/jpswalsh/academicons/blob/master/svg/academia-square.svg" width="30" title="Academia">](https://independent.academia.edu/gungormetehan)
 [<img src="https://github.com/jpswalsh/academicons/blob/master/svg/stackoverflow-square.svg" width="30" title="Stack OverFlow">](https://stackoverflow.com/users/23009260/metehangungor)
 
+## COMPETENCIES
+
+<img width="1765" height="879" alt="competencies" src="https://github.com/user-attachments/assets/bca78b65-1dc8-44a7-bcda-f1653b39d909" />
+
 ## BADGES
 
 ### IBM - SkillsBuild
