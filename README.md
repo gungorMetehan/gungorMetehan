@@ -57,6 +57,7 @@ for (i in nrow(df)) {
 
 <table>
 <tr>
+<td><img src="https://github.com/user-attachments/assets/452a42c6-2a0d-4c15-961b-25b9f8423a41" width="60"></td>
 <td><img src="https://github.com/user-attachments/assets/6bae070d-58ef-4d71-a429-84b2fab1ace1" width="60"></td>
 <td><img src="https://github.com/user-attachments/assets/01aaeb8b-5e7e-4e64-9f0d-85e30359649e" width="60"></td>
 <td><img src="https://github.com/user-attachments/assets/8c3b54c7-ef00-4426-b306-0f6ed15f1279" width="60"></td>
